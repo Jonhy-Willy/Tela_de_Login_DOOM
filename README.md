@@ -6,7 +6,7 @@
 
 Projeto construído em aula no canal Manual do Dev.
 
-[ 🔗 Clique aqui para acessar]( https://jonhy-willy.github.io/Tela_de_Login_DOOM/
+[ 🔗 Clique aqui para acessar](https://jonhy-willy.github.io/Tela_de_Login_DOOM/)
 
 # 🛠 Tecnologias
 
